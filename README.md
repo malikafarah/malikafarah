@@ -60,7 +60,7 @@ Welcome to my GitHub! I'm a computer science student with a strong focus on full
 
 ## 🌟 My Contributions
 
-  <img align="center" src="https://github.com/malikafarah/malikafarah/blob/output/github-contribution-grid-snake.svg" alt="light">
+  <img align="center" src="https://github.com/malikafarah/malikafarah/blob/output/github-contribution-grid-snake.svg" alt="dark">
 
 ---
 
