@@ -58,6 +58,12 @@ Welcome to my GitHub! I'm a computer science student with a strong focus on full
 
 ---
 
+## 🌟 My Contributions
+
+  <img align="center" src="https://github.com/malikafarah/malikafarah/blob/output/github-contribution-grid-snake.svg" alt="light">
+
+---
+
 ## 📫 Let's Connect! 
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/malika-farah-723077332/)
